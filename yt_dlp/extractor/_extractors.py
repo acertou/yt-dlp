@@ -1458,6 +1458,7 @@ from .pornotube import PornotubeIE
 from .pornovoisines import PornoVoisinesIE
 from .pornoxo import PornoXOIE
 from .pornez import PornezIE
+from .pornzog import PornzogIE
 from .puhutv import (
     PuhuTVIE,
     PuhuTVSerieIE,
